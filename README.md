@@ -1,3 +1,5 @@
+![ctcannadata](https://github.com/user-attachments/assets/17d16dd9-628a-48de-bd43-81436e280b7c)
+
 # Lab Analysis Data Extraction Script
 
 In 2021, in response to a Freedom of Information request (and later, complaint), Connecticut's cannabis regulator began including all cannabis testing laboratory certificates of analysis in the state's public data portal. Unfortunately, the data is not very useful for large-scale analysis in its current form (PDF files linked to in the LAB-ANALYSIS column). This script attempts to rectify this deficiency in an effort to better serve the public interest.
